@@ -91,6 +91,13 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 ### 📝 Lenguajes Más Usados (Todas mis Contribuciones)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 December 2025 - To: 13 December 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StoneFind22&theme=tokyonight&hide_border=true&locale=es)
