@@ -82,15 +82,18 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 
 ### 🏆 Mis Logros
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Mi Actividad
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StoneFind22&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=percentile&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StoneFind22&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=percentile)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneFind22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### 📝 Lenguajes Más Usados (Todas mis Contribuciones)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StoneFind22&theme=tokyonight&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StoneFind22&theme=tokyonight&hide_border=true&locale=es)
 
 ### 📊 Gráfico de Contribuciones
 
