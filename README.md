@@ -92,10 +92,16 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 06 December 2025 - To: 13 December 2025
+```
+From: 13 December 2025 - To: 14 December 2025
 
-No activity tracked
+Total Time: 1 hr 37 mins
+
+Python     52 mins         █████████████▒░░░░░░░░░░░   53.43 %
+YAML       28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.66 %
+INI        11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Markdown   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
