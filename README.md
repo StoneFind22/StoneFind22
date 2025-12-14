@@ -92,7 +92,7 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 
 <!--START_SECTION:waka-->
 
-```
+```txt
 From: 13 December 2025 - To: 14 December 2025
 
 Total Time: 1 hr 37 mins
