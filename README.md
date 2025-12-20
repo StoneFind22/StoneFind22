@@ -117,20 +117,20 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 17 December 2025
+From: 13 December 2025 - To: 18 December 2025
 
-Total Time: 4 hrs 1 min
+Total Time: 4 hrs 37 mins
 
-Python       2 hrs 31 mins   ███████████████▓░░░░░░░░░   62.60 %
-YAML         28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-JavaScript   26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-INI          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-HTML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       2 hrs 33 mins   ██████████████░░░░░░░░░░░   55.37 %
+Markdown     29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+YAML         28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+JavaScript   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Git Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+INI          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+HTML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
