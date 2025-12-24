@@ -117,20 +117,20 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 22 December 2025
+From: 13 December 2025 - To: 23 December 2025
 
-Total Time: 5 hrs 48 mins
+Total Time: 6 hrs 14 mins
 
-Python       3 hrs 34 mins   ███████████████▒░░░░░░░░░   61.47 %
-Markdown     38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-YAML         28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-JavaScript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Git Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-INI          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python       3 hrs 34 mins   ██████████████░░░░░░░░░░░   56.02 %
+Markdown     38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+YAML         28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+JavaScript   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+PlantUML     25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+INI          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
