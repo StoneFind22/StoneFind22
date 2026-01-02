@@ -100,7 +100,7 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 
 ### 🏆 Mis Logros
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=tokyonight&refresh=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
