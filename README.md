@@ -110,7 +110,7 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 
 | Estadísticas | Lenguajes | Racha |
 |---|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StoneFind22&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=percentile&height=200) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneFind22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&height=200) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StoneFind22&theme=tokyonight&hide_border=true&locale=es) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StoneFind22&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=percentile&height=200&refresh=1) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneFind22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&height=200&refresh=1) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StoneFind22&theme=tokyonight&hide_border=true&locale=es&refresh=1) |
 
 ### 📝 Lenguajes Más Usados (Todas mis Contribuciones)
 
