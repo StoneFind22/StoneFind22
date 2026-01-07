@@ -117,20 +117,20 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 04 January 2026
+From: 13 December 2025 - To: 05 January 2026
 
-Total Time: 54 hrs
+Total Time: 57 hrs 31 mins
 
-TypeScript                         18 hrs 54 mins  ████████▓░░░░░░░░░░░░░░░░   34.82 %
-Python                             9 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-JavaScript                         8 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Markdown                           7 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Text                               3 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-JSON                               2 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-HTML                               1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-MDX                                1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-YAML                               28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-PlantUML                           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+TypeScript                         22 hrs 1 min    █████████▓░░░░░░░░░░░░░░░   38.09 %
+Python                             9 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+JavaScript                         8 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Markdown                           7 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Text                               3 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+JSON                               2 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+HTML                               1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+MDX                                1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+YAML                               28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+PlantUML                           25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
