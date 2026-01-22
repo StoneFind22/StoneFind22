@@ -117,16 +117,16 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 19 January 2026
+From: 13 December 2025 - To: 20 January 2026
 
-Total Time: 105 hrs 2 mins
+Total Time: 105 hrs 8 mins
 
-TypeScript                         49 hrs 17 mins  ███████████▓░░░░░░░░░░░░░   46.79 %
-Markdown                           11 hrs 36 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-JavaScript                         9 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+TypeScript                         49 hrs 17 mins  ███████████▓░░░░░░░░░░░░░   46.75 %
+Markdown                           11 hrs 36 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+JavaScript                         9 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
 Python                             9 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-PHP                                5 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
-JSON                               5 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+PHP                                5 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+JSON                               5 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 Bash                               4 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 Text                               3 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 MDX                                2 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
