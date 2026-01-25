@@ -117,20 +117,20 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 22 January 2026
+From: 13 December 2025 - To: 23 January 2026
 
-Total Time: 112 hrs 36 mins
+Total Time: 113 hrs 13 mins
 
-TypeScript                         49 hrs 47 mins  ███████████░░░░░░░░░░░░░░   44.08 %
-Markdown                           13 hrs 40 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-JavaScript                         9 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Python                             9 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-PHP                                6 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-JSON                               5 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Bash                               4 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-XML                                3 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Text                               3 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-MDX                                2 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+TypeScript                         49 hrs 51 mins  ███████████░░░░░░░░░░░░░░   43.48 %
+Markdown                           13 hrs 40 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+JavaScript                         9 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Python                             9 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+PHP                                6 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+JSON                               5 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Bash                               4 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+XML                                3 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Text                               3 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+MDX                                2 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
