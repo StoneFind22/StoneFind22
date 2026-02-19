@@ -117,20 +117,20 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 16 February 2026
+From: 13 December 2025 - To: 17 February 2026
 
-Total Time: 158 hrs 16 mins
+Total Time: 166 hrs 43 mins
 
-TypeScript                         79 hrs 25 mins  ████████████▒░░░░░░░░░░░░   49.64 %
-Markdown                           18 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-JavaScript                         10 hrs 32 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-PHP                                9 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Python                             9 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Text                               7 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JSON                               5 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Bash                               4 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-XML                                4 hrs 31 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-MDX                                2 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TypeScript                         84 hrs 57 mins        ████████████▓░░░░░░░░░░░░   50.37 %
+Markdown                           19 hrs 3 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+PHP                                12 hrs 18 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+JavaScript                         10 hrs 32 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Python                             9 hrs 22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Text                               7 hrs 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+JSON                               5 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Bash                               4 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+XML                                4 hrs 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+MDX                                2 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
