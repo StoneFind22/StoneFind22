@@ -117,20 +117,20 @@ Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 18 February 2026
+From: 13 December 2025 - To: 19 February 2026
 
-Total Time: 166 hrs 43 mins
+Total Time: 175 hrs 8 mins
 
-TypeScript                         84 hrs 57 mins        ████████████▓░░░░░░░░░░░░   50.37 %
-Markdown                           19 hrs 3 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-PHP                                12 hrs 18 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-JavaScript                         10 hrs 32 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Python                             9 hrs 22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-Text                               7 hrs 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-JSON                               5 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Bash                               4 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-XML                                4 hrs 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-MDX                                2 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+TypeScript                         91 hrs                █████████████░░░░░░░░░░░░   51.36 %
+Markdown                           20 hrs 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+PHP                                13 hrs 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+JavaScript                         10 hrs 32 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Python                             9 hrs 22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Text                               7 hrs 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JSON                               5 hrs 51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Bash                               4 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+XML                                4 hrs 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+MDX                                2 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
