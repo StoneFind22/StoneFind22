@@ -1,143 +1,120 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy José
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:2d2b55,100:1a1b27&amp;height=200&amp;section=header&amp;text=Jose%20Osorio&amp;fontSize=56&amp;fontColor=c0caf5&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20DevOps%20%26%20Cybersecurity%20Enthusiast&amp;descAlignY=58&amp;descSize=16&amp;descColor=7aa2f7&amp;animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack+🚀;Entusiasta+de+Ciberseguridad+🔒;Backend+%26+Frontend+Developer;Python+%7C+JavaScript+%7C+React)](https://github.com/StoneFind22)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%92;Python+%7C+TypeScript+%7C+PHP)](https://github.com/StoneFind22)
+
+<!-- VISITOR COUNTER -->
+<img src="https://count.getloli.com/get/@StoneFind22?theme=moebooru&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=1" alt="Visitor Count" />
 
 </div>
 
 ---
 
-## 🌐 Conecta Conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-osorio-mallqui-719166397)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jososo1396@gmail.com)
+<!-- SOCIAL LINKS -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-osorio-mallqui-719166397)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jososo1396@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StoneFind22)
 
-</div>
+---
+
+## 👨‍💻 About Me
+
+I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused on building scalable, secure and innovative solutions. Currently diving deeper into **DevOps**, **cloud architectures** and **offensive cybersecurity**.
+
+- 🔭 Working on Full Stack projects focused on performance & scalability
+- 🌱 Learning **DevOps**, **Cloud Architecture**, **Pentesting** & **Red Teaming**
+- 🛡️ Exploring **cybersecurity**, system hardening & ethical hacking
+- 💬 Ask me about **React**, **Node.js**, **Python**, **Django**, **Docker**
+- 📫 Reach me at **jososo1396@gmail.com**
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 🛠️ Tech Stack
 
-Soy un desarrollador **Full Stack** apasionado por crear soluciones innovadoras, seguras y escalables. Me encanta trabajar con tecnologías modernas y siempre estoy explorando nuevas tendencias en el desarrollo web y ciberseguridad.
+**☁️ Cloud & DevOps**
 
-### 🎯 Lo Que Hago
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,cloudflare,firebase,supabase,docker,githubactions,gitlab&theme=dark)](https://skillicons.dev)
 
-- 🔭 **Actualmente trabajando** en proyectos Full Stack innovadores
-- 🌱 **Aprendiendo profundamente** sobre Ciberseguridad, Pentesting y Red Teaming
-- 👯 **Buscando colaborar** en proyectos de código abierto de impacto
-- 💬 **Expertise en** React, Node.js, Python, Django y arquitecturas escalables
+**💻 Languages**
 
----
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,kotlin,php&theme=dark)](https://skillicons.dev)
 
-## 🛠️ Stack Tecnológico
+**🚀 Frameworks**
 
-<details>
-<summary><b>💻 Lenguajes de Programación</b></summary>
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,fastapi,django,flask,laravel&theme=dark)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**🗄️ Databases**
 
-</details>
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
-<details>
-<summary><b>🎨 Frontend</b></summary>
+**🔒 Cybersecurity**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![Security](https://skillicons.dev/icons?i=kali,linux&theme=dark)](https://skillicons.dev)
 
-</details>
+**🔧 Tools**
 
-<details>
-<summary><b>⚙️ Backend</b></summary>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🗄️ Bases de Datos</b></summary>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔒 Ciberseguridad</b></summary>
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557B9A?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot](https://img.shields.io/badge/Parrot_OS-7D2A51?style=for-the-badge&logo=parrot-security&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔧 DevOps & Herramientas</b></summary>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
+[![Tools](https://skillicons.dev/icons?i=git,bash,vscode,vim,figma,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🏆 Mis Logros
+### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=tokyonight&refresh=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-### 📈 Mi Actividad
+<!-- Generated by lowlighter/metrics — see metrics.yml workflow -->
+<img src="github-metrics.svg" alt="GitHub Metrics" />
 
-| Estadísticas | Lenguajes | Racha |
-|---|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StoneFind22&show_icons=true&theme=tokyonight&hide_border=true&locale=es&rank_icon=percentile&height=200&refresh=1) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneFind22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&height=200&refresh=1) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StoneFind22&theme=tokyonight&hide_border=true&locale=es&refresh=1) |
+</div>
 
-### 📝 Lenguajes Más Usados (Todas mis Contribuciones)
+<div align="center">
+
+<img width="65%" src="https://streak-stats.demolab.com?user=StoneFind22&amp;theme=tokyonight&amp;hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=StoneFind22&theme=tokyo-night&hide_border=true&area=true&custom_title=Annual%20Activity%20Graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StoneFind22/StoneFind22/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StoneFind22/StoneFind22/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/StoneFind22/StoneFind22/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## ⏱️ WakaTime Coding Activity
+
+<div align="center">
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 December 2025 - To: 19 March 2026
-
-Total Time: 296 hrs 39 mins
-
-TypeScript                         147 hrs 1 min         ████████████▒░░░░░░░░░░░░   48.82 %
-PHP                                62 hrs 20 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-Markdown                           30 hrs 12 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-JavaScript                         10 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Python                             9 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-JSON                               9 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Text                               7 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Bash                               6 hrs 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-XML                                4 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other                              4 hrs 29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-```
-
 <!--END_SECTION:waka-->
-
-### 📊 Gráfico de Contribuciones
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=StoneFind22&theme=tokyo-night&hide_border=true&area=true&custom_title=Gráfico%20de%20Actividad%20Anual)
 
 </div>
 
@@ -145,10 +122,8 @@ Other                              4 hrs 29 mins         ▒░░░░░░�
 
 <div align="center">
 
-## ⭐ Si te gusta mi trabajo, considera darme una ⭐
+### ⭐ If you like my work, star my repos!
 
-### Gracias por visitar mi perfil 🙌
-
-[![Visitas](https://komarev.com/ghpvc/?username=StoneFind22&style=flat-square&color=blueviolet&label=VISITAS)](https://github.com/StoneFind22)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:2d2b55,100:1a1b27&amp;height=120&amp;section=footer" />
 
 </div>
