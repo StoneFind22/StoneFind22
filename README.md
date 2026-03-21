@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d2b55,100:1a1b27&height=200&section=header&text=Jose%20Osorio&fontSize=56&fontColor=c0caf5&fontAlignY=38&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Cybersecurity&descAlignY=58&descSize=18&descColor=7aa2f7&animation=fadeIn)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%92;Python+%7C+TypeScript+%7C+PHP)](https://github.com/StoneFind22)
 
 ![Visitor Count](https://count.getloli.com/get/@StoneFind22?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
+
+</div>
 
 ---
 
@@ -54,10 +58,7 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StoneFind22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StoneFind22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=radical&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=StoneFind22&theme=tokyonight&hide_border=true)
 
