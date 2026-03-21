@@ -83,6 +83,24 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 December 2025 - To: 21 March 2026
+
+Total Time: 301 hrs 41 mins
+
+TypeScript                         150 hrs 37 mins       ████████████▒░░░░░░░░░░░░   49.19 %
+PHP                                63 hrs 37 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+Markdown                           30 hrs 21 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+JavaScript                         10 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Python                             9 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+JSON                               9 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Text                               7 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Bash                               6 hrs 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+XML                                4 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Other                              4 hrs 29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
