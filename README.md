@@ -57,11 +57,16 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=radical&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
+<div align="center">
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=StoneFind22&theme=tokyonight&hide_border=true)
 
+</div>
 ---
 
 ## 📈 Activity Graph
