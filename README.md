@@ -30,43 +30,34 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 
 ## 🛠️ Tech Stack
 
-**☁️ Cloud & DevOps**
+<div align="center">
 
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,cloudflare,firebase,supabase,docker,githubactions,gitlab&theme=dark)](https://skillicons.dev)
+| ☁️ Cloud & DevOps | 💻 Languages | 🚀 Frameworks |
+|:---:|:---:|:---:|
+| [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,cloudflare,firebase,supabase,docker,githubactions&theme=dark&perline=5)](https://skillicons.dev) | [![Languages](https://skillicons.dev/icons?i=python,java,js,ts,kotlin,php&theme=dark&perline=6)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,fastapi,django,flask,laravel&theme=dark&perline=4)](https://skillicons.dev) |
 
-**💻 Languages**
+| 🗄️ Databases | 🔒 Security | 🔧 Tools |
+|:---:|:---:|:---:|
+| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=3)](https://skillicons.dev) | [![Security](https://skillicons.dev/icons?i=kali,linux&theme=dark&perline=2)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,bash,vscode,vim,figma,postman&theme=dark&perline=6)](https://skillicons.dev) |
 
-[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,kotlin,php&theme=dark)](https://skillicons.dev)
-
-**🚀 Frameworks**
-
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,fastapi,django,flask,laravel&theme=dark)](https://skillicons.dev)
-
-**🗄️ Databases**
-
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
-
-**🔒 Cybersecurity**
-
-[![Security](https://skillicons.dev/icons?i=kali,linux&theme=dark)](https://skillicons.dev)
-
-**🔧 Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,bash,vscode,vim,figma,postman&theme=dark)](https://skillicons.dev)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=radical&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=StoneFind22&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <div align="center">
-  
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=StoneFind22&theme=tokyonight&hide_border=true)
 
 </div>
+
 ---
 
 ## 📈 Activity Graph
@@ -90,20 +81,20 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 22 March 2026
+From: 13 December 2025 - To: 21 March 2026
 
-Total Time: 305 hrs 10 mins
+Total Time: 301 hrs 41 mins
 
-TypeScript                         150 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.61 %
-PHP                                64 hrs 12 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
-Markdown                           30 hrs 28 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-JavaScript                         10 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Text                               9 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Python                             9 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-JSON                               9 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Bash                               6 hrs 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Other                              5 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-XML                                4 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TypeScript                         150 hrs 37 mins       ████████████▒░░░░░░░░░░░░   49.19 %
+PHP                                63 hrs 37 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+Markdown                           30 hrs 21 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+JavaScript                         10 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Python                             9 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+JSON                               9 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Text                               7 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Bash                               6 hrs 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+XML                                4 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Other                              4 hrs 29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
