@@ -7,7 +7,8 @@
 ![Visitor Count](https://count.getloli.com/get/@StoneFind22?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
 
 </div>
-
+<div align="center">
+  
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-osorio-mallqui-719166397)
@@ -15,6 +16,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StoneFind22)
 
 ---
+
+</div>
 
 ## 👨‍💻 About Me
 
