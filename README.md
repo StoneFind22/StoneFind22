@@ -84,20 +84,20 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 13 April 2026
+From: 13 December 2025 - To: 14 April 2026
 
-Total Time: 335 hrs 38 mins
+Total Time: 338 hrs 14 mins
 
-TypeScript                         166 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.47 %
-PHP                                72 hrs 56 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-Markdown                           32 hrs 52 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-JavaScript                         10 hrs 40 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Text                               9 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Python                             9 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JSON                               9 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Bash                               9 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Other                              8 hrs 40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-XML                                4 hrs 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+TypeScript                         166 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.11 %
+PHP                                74 hrs 47 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
+Markdown                           32 hrs 52 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+JavaScript                         10 hrs 40 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Text                               9 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Python                             9 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JSON                               9 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Bash                               9 hrs 11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Other                              8 hrs 42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+XML                                4 hrs 39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
