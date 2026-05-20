@@ -3,7 +3,6 @@
 
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Cybersecurity+Enthusiast+%F0%9F%94%92;Python+%7C+TypeScript+%7C+PHP)](https://github.com/StoneFind22)
 
 ![Visitor Count](https://count.getloli.com/get/@StoneFind22?theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
