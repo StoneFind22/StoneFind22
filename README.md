@@ -84,19 +84,19 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 19 May 2026
+From: 13 December 2025 - To: 21 May 2026
 
-Total Time: 381 hrs 52 mins
+Total Time: 383 hrs 59 mins
 
-TypeScript                         181 hrs 47 mins       ███████████▓░░░░░░░░░░░░░   46.13 %
-PHP                                89 hrs 22 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.68 %
-Markdown                           40 hrs 10 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
-Other                              12 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-JavaScript                         11 hrs 19 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Bash                               10 hrs 18 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Python                             10 hrs 16 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Text                               9 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-JSON                               9 hrs 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+TypeScript                         181 hrs 47 mins       ███████████▒░░░░░░░░░░░░░   45.88 %
+PHP                                89 hrs 22 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+Markdown                           41 hrs 42 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Other                              12 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+JavaScript                         11 hrs 19 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Bash                               10 hrs 18 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Python                             10 hrs 16 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Text                               9 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JSON                               9 hrs 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 XML                                4 hrs 39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
