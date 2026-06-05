@@ -86,7 +86,7 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 02 June 2026
+From: 13 December 2025 - To: 03 June 2026
 
 Total Time: 413 hrs 54 mins
 
