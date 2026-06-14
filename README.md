@@ -85,16 +85,16 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 11 June 2026
+From: 13 December 2025 - To: 12 June 2026
 
-Total Time: 432 hrs 46 mins
+Total Time: 433 hrs 12 mins
 
-TypeScript                         190 hrs 15 mins       ██████████▓░░░░░░░░░░░░░░   42.75 %
-PHP                                114 hrs 15 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-Markdown                           46 hrs 29 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+TypeScript                         190 hrs 19 mins       ██████████▓░░░░░░░░░░░░░░   42.73 %
+PHP                                114 hrs 31 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
+Markdown                           46 hrs 29 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
 Python                             12 hrs 44 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 Other                              12 hrs 14 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-JavaScript                         12 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JavaScript                         12 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 Bash                               11 hrs 36 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 Text                               9 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 JSON                               9 hrs 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
