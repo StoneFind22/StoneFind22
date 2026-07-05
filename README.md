@@ -85,20 +85,20 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 02 July 2026
+From: 13 December 2025 - To: 03 July 2026
 
-Total Time: 470 hrs 24 mins
+Total Time: 473 hrs 22 mins
 
-TypeScript                         197 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.51 %
-PHP                                125 hrs 46 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-Markdown                           50 hrs                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-Bash                               18 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Other                              17 hrs 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Python                             12 hrs 55 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JavaScript                         12 hrs 1 min          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-JSON                               10 hrs 12 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Text                               9 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-TeX                                6 hrs 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TypeScript                         197 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.19 %
+PHP                                125 hrs 46 mins       ██████▒░░░░░░░░░░░░░░░░░░   25.58 %
+Markdown                           50 hrs                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Bash                               18 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other                              18 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Python                             12 hrs 57 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JavaScript                         12 hrs 1 min          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JSON                               10 hrs 12 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Text                               10 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+TeX                                9 hrs 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
