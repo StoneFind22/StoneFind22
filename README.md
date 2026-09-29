@@ -84,20 +84,20 @@ I'm **José**, a passionate **Full Stack Developer** from 🇵🇪 Peru, focused
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 26 September 2026
+From: 13 December 2025 - To: 27 September 2026
 
-Total Time: 801 hrs 37 mins
+Total Time: 805 hrs 24 mins
 
-TypeScript                         269 hrs 22 mins       ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-PHP                                185 hrs 58 mins       █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
-Markdown                           163 hrs 44 mins       ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-Other                              91 hrs 59 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Python                             33 hrs 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Bash                               29 hrs 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-TeX                                22 hrs 28 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-JavaScript                         18 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-JSON                               16 hrs 56 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-YAML                               12 hrs 28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TypeScript                         271 hrs 9 mins        ███████▓░░░░░░░░░░░░░░░░░   30.20 %
+PHP                                186 hrs 23 mins       █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+Markdown                           164 hrs 34 mins       ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+Other                              92 hrs 18 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Python                             33 hrs 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Bash                               29 hrs 50 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+TeX                                22 hrs 28 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+JavaScript                         18 hrs 30 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JSON                               16 hrs 59 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+YAML                               12 hrs 28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
